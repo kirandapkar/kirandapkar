@@ -1,5 +1,14 @@
 # 💫 About Me:
-I’m a Senior Applied AI & LLM Engineer focused on building production-grade, agentic AI systems that operate reliably under real-world constraints—scale, governance, latency, and compliance.<br><br>I don’t just prototype models. I design and ship LLM-powered systems that survive enterprise workloads.<br><br>At DAXA, I’ve engineered:<br><br>MCP-based agent lifecycles and policy enforcement<br><br>Redis-backed caching to reduce redundant LLM calls and cost<br><br>Secure, role-based tool execution across PostgreSQL, MongoDB, and Elasticsearch<br><br>These systems improved retrieval accuracy, reduced execution failures, and translated directly into measurable operational savings.<br><br>Previously at American Express, I led Data Shapley–driven model optimization that:<br><br>Reduced risk model size by 44%<br><br>Delivered $1.1M+ annual cost impact<br><br>Powered GenAI insight engines with 80%+ engagement uplift<br><br>My core strengths span LLM agents, RAG, FastAPI, LangGraph/ReAct, containerized deployment, and cloud-native systems.<br><br>I work best with teams that want to turn LLMs into ROI, efficiency, and automation—not just demos.
+- 🔭 I’m currently working on high-throughput LLM platforms, policy enforcement engines (MCP-based), and real-time AI governance systems at scale.
+
+- 🌱 I’m currently learning deeper LLM reasoning optimization, advanced agent architectures (LangGraph / MCP), and large-scale GenAI analytics systems.
+
+- 👯 I’m looking to collaborate on LLM infrastructure, Agentic AI systems, AI governance, RAG architectures, and performance optimization for GenAI systems.
+
+- 🤔 I’m looking for help with scaling agentic workflows, improving LLM reasoning reliability over structured/tabular data, and production-grade AI monitoring architectures.
+
+- 💬 Ask me about LLM proxy architecture, MCP-based policy systems, RAG pipelines, Data Shapley for model optimization, AI governance, or enterprise GenAI deployment.
+
 
 
 ## 🌐 Socials:
